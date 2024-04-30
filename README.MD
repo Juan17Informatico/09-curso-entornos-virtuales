@@ -15,4 +15,8 @@ Un entorno virtual nos permite encapsular todo lo necesario para que un proyecto
 - Laragon
 - Vagrant
 
+# Constantes 
+
+## Formas de declarar constantes:
+
 ![alt text](image.png)
