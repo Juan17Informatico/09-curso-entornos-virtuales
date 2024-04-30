@@ -14,3 +14,5 @@ Un entorno virtual nos permite encapsular todo lo necesario para que un proyecto
 - Docker
 - Laragon
 - Vagrant
+
+![alt text](image.png)
