@@ -16,7 +16,7 @@
 $michi = [
     "nombre" => "MrMichi",
     "nivelP" => 123
-]; 
+];
 
 $change_michi_name = function () use ($michi) {
     echo $michi["nombre"]; 
