@@ -17,9 +17,9 @@
 
 // $edades = [5, 21, 50, 18]; 
 
-// // $mayores_de_edad = array_filter($edades, function($current){
-// //     return $current >= 18; 
-// // }); 
+// $mayores_de_edad = array_filter($edades, function($current){
+//     return $current >= 18; 
+// }); 
 
 // $mayores_de_edad = array_filter($edades, fn($current) => $current >= 18); 
 
